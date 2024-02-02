@@ -7,7 +7,7 @@
 <properties>
 	<maven.complier.source>10</maven.complier.source>	
 	<maven.complier.target>10</maven.complier.target>
-	<spring.framework.version>5.0.6.RELEASE</spring.framework.version>
+	<spring.framework.version>5.2.22.RELEASE</spring.framework.version>
 	<aspectj.version>1.9.1</aspectj.version>
 </properties>
 	
